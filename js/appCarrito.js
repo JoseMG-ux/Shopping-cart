@@ -1,5 +1,5 @@
 //PROYECTO TERMINADO
-
+//Probando Git como control de versiones
 //Proyecto que simula un carrito de compras desarrollado en JavaScript utilizando LocalStorage
 
 //Variables------------------------------------------------
