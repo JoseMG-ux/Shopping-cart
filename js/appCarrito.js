@@ -1,4 +1,5 @@
 //PROYECTO TERMINADO
+//Bot con Slack para notificaciones de cambios del proyecto
 //Probando Git como control de versiones
 //Proyecto que simula un carrito de compras desarrollado en JavaScript utilizando LocalStorage
 
